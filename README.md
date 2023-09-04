@@ -2,7 +2,7 @@
 
 ## About Project
 
-This project is called arkatama news. This project is the first task of the internship program held at PT Arkatama Multisolusindo. This project is a news project that can display news and manage it. ( Each user can manage their own posts )
+This project is called Bimss News. This project is a news project that can display news and manage it. ( Each user can manage their own posts )
 
 ## My Personal Information
 
@@ -12,7 +12,6 @@ This project is called arkatama news. This project is the first task of the inte
 -   University : Brawijaya University
 -   Home Town : Tulungagung
 -   Address : JL.Joyosari GG.1 no 26D , Merjosari, Lowokwaru
--   Internship Expectations : Menjadi mahasiswa yang memiliki keterampilan lebih, menambah pengalaman serta relasi, dan memberikan kontribusi sebaik mungkin terhadap perusahaan
 
 ## Technology In Projects
 
