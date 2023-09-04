@@ -29,7 +29,7 @@ This project is called Bimss News. This project is a news project that can displ
 ### Clone Repository
 
 ```bash
-git clone https://gitlab.com/bima.aji1380/pre-assignment-fe3-arkatama.git
+git clone https://github.com/Bima1301/Bims-News.git
 ```
 
 ### Install Dependencies
